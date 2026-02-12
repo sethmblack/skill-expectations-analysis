@@ -1,11 +1,10 @@
 ---
 name: expectations-analysis
-description: Map the recursive structure of expectations in coordination problems
-  - what people believe others believe.
+description: Map the recursive structure of expectations in coordination problems - what people believe others believe.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - compression
 - expectations-analysis
